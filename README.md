@@ -1,3 +1,19 @@
-# Wheat_seed_dataset
-Wheat_data_set is a data comprising three types of grains namely Kama, Rosa and Canadian .
-All are different from each other by Area ,Perimeter , Compactness , Kernel Width , Kernel Length , Kernel Groove and Asymmetry Coefficent. This project is basically gives idea to predict any upcoming future grain type ( Kama is 1 , Rosa is 2 and Canadian is 3)
+Data Set Information:
+The examined group comprised kernels belonging to three different varieties of wheat: Kama, Rosa and Canadian, 70 elements each, randomly selected for 
+the experiment. High quality visualization of the internal kernel structure was detected using a soft X-ray technique. It is non-destructive and considerably cheaper than other more sophisticated imaging techniques like scanning microscopy or laser technology. The images were recorded on 13x18 cm X-ray KODAK plates. Studies were conducted using combine harvested wheat grain originating from experimental fields, explored at the Institute of Agrophysics of the Polish Academy of Sciences in Lublin. 
+
+The data set can be used for the tasks of classification and cluster analysis.
+
+
+Attribute Information:
+To construct the data, seven geometric parameters of wheat kernels were measured: 
+1. area A, 
+2. perimeter P, 
+3. compactness C = 4*pi*A/P^2, 
+4. length of kernel, 
+5. width of kernel, 
+6. asymmetry coefficient 
+7. length of kernel groove. 
+All of these parameters were real-valued continuous.
+
+
